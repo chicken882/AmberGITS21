@@ -1,0 +1,21 @@
+City,TotalDays,PoorDays,AQImedian,Zone
+Seattle,306,14,42,west
+San Francisco,314,22,45,west
+Los Angeles,275,119,81,west
+Denver,366,34,58,mountain
+Salt Lake City,366,21,50,mountain
+Phoenix,366,70,75,mountain
+Chicago,366,28,56,central
+St. Louis,366,10,52,central
+Dallas,306,24,49,central
+Boston,306,0,42,east
+Washington D.C.,366,3,42,east
+Miami,275,2,44,east
+Bakersfield,366,128,80,west
+Ellensburg,365,11,18,west
+Helena,366,5,40,mountain
+Hobbs,366,0,39,mountain
+Minot,366,0,33,central
+Montgomery,361,2,52,central
+Ithaca,364,0,34,east
+Trenton,366,3,38,east
